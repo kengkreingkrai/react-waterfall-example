@@ -1,4 +1,4 @@
-import { initStore } from 'react-stateful'
+import { initStore } from 'react-waterfall'
 import { devTool } from './devtool'
 
 const store = {
